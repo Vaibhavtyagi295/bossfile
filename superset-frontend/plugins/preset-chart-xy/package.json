@@ -38,7 +38,7 @@
     "csstype": "^2.6.3",
     "encodable": "^0.7.6",
     "lodash": "^4.17.11",
-    "reselect": "^4.0.0"
+    "reselect": "^4.1.8"
   },
   "peerDependencies": {
     "@superset-ui/chart-controls": "*",
